@@ -35,5 +35,31 @@
             "DEATH VIA TANK",
             "EMOTE TRAP ON BARRIER"
         ]
+    },
+    "deadlockpatch": {
+        "title": "DEADLOCK MAJOR PATCH",
+        "cells": [
+            "Jungle Changes",
+            "Kit Reworks (different abilities)",
+            "Item Portrait Changes",
+            "2 New Items",
+            "Hero Vote",
+            "Bebop Nerf",
+            "Midboss Remodel",
+            "New Objective/s",
+            "Sinclair Changes",
+            "Sinclair Nothingburger",
+            "Urn Rework",
+            "Draft",
+            "Surrender",
+            "Lane Changes",
+            "Hideout Changes",
+            "Day/Night Cycle",
+            "Damage Recieved UI Fixed",
+            "New Healthbars",
+            "New Vampire",
+            "Visual Novel Dropped",
+            "Giovanni Voiced Character"
+        ]
     }
 }
